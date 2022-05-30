@@ -1,0 +1,8 @@
+
+Webmin --> FAKE Webmin user/s use real environment/s, it could be used in another hybrid state ( with real users + Webmin config ),
+
+Ajenti --> ALL real users are unlocked,
+
+Cloud_commander --> ONLY 1 user is used, the process owner.
+
+Another Improvement could be: put these in one VM and connect it with SAMBA or something like that.
